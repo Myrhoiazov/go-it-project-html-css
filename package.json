@@ -2,20 +2,20 @@
   "name": "index-999",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://serovsergey.github.io/index-999",
+  "homepage": "https://Myrhoiazov.github.io/go-it-project-html-css",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /index-999/"
+    "build": "parcel build src/*.html --public-url /go-it-project-html-css/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serovsergey/index-999.git"
+    "url": "git+https://github.com/Myrhoiazov/go-it-project-html-css"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/serovsergey/index-999/issues"
+    "url": "https://github.com/Myrhoiazov/go-it-project-html-css/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
